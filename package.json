@@ -1,10 +1,10 @@
 {
-  "name": "react-use-please-stay",
-  "version": "1.6.11",
-  "description": "A react hook that animates the document title when you leave a tab in a browser.",
+  "name": "full-stack-craft-production-label",
+  "version": "1.0.0",
+  "description": "A label for Full Stack Craft!",
   "author": "Chris Frewin",
   "license": "MIT",
-  "repository": "princefishthrower/react-use-please-stay",
+  "repository": "FullStackCraft/full-stack-craft-production-label",
   "main": "dist/index.js",
   "engines": {
     "node": ">=8",
@@ -35,15 +35,11 @@
   ],
   "keywords": [
     "react",
-    "react hook",
+    "react component",
     "typescript",
     "npm",
-    "change document title",
-    "favicon",
-    "title-animation",
-    "animation"
-  ],
-  "dependencies": {
-    "prop-types": "^15.7.2"
-  }
+    "label",
+    "button",
+    "ui element"
+  ]
 }
