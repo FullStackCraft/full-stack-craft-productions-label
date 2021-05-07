@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/styles.scss';
 
-export function FullStackCraftProductionsLabel() {
+export function FullStackCraftProductionLabel() {
   return (
     <>
       <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -12,9 +12,10 @@ export function FullStackCraftProductionsLabel() {
       <a
         className="full-stack-craft-button"
         target="_blank"
+        rel="noopener noreferrer"
         href="https://fullstackcraft.com"
       >
-        <img src="https://coffee-app.sfo2.cdn.digitaloceanspaces.com/fullstackcraft/logo.jpg" />
+        <img alt="Full Stack Craft Logo" src="https://coffee-app.sfo2.cdn.digitaloceanspaces.com/fullstackcraft/logo.jpg" />
         <span>a Full Stack Craft production</span>
       </a>
     </>

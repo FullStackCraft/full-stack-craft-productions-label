@@ -1,1 +1,1 @@
-export { FullStackCraftProductionsLabel } from './components/FullStackCraftProductionsLabel';
+export { FullStackCraftProductionLabel } from './components/FullStackCraftProductionLabel';
